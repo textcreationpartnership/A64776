@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Jesus Christ, the immaculate lamb of God from the foul and blasphemous imputation of one Thomas Powel ... who affirmed, that Jesus Christ was the greatest sinner in the world : with an answer to a paper put forth by him, entituled A word to the wise is enough .../ by John Vaughton ...</title>
+            <author>Vaughton, John, 1644-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64776</idno>
+            <idno type="STC">Wing V160</idno>
+            <idno type="STC">ESTC R1048</idno>
+            <idno type="EEBO-CITATION">12181788</idno>
+            <idno type="OCLC">ocm 12181788</idno>
+            <idno type="VID">55688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:70)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Jesus Christ, the immaculate lamb of God from the foul and blasphemous imputation of one Thomas Powel ... who affirmed, that Jesus Christ was the greatest sinner in the world : with an answer to a paper put forth by him, entituled A word to the wise is enough .../ by John Vaughton ...</title>
+                  <author>Vaughton, John, 1644-1712.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ.</term>
+               <term>Powell, Thomas. --  Word to the wise is enough.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55688:1"/>
+            <pb facs="tcp:55688:1"/>
+            <p>A VINDICATION OF Jeſus Chriſt, The Immaculate Lamb of God, From the Foul and Blaſphemous Imputa<g ref="char:EOLhyphen"/>tion of one <hi>Thomas Powel</hi> a Preacher amongſt the <hi>Independents,</hi> who affirmed, <hi>That Jeſus Chriſt was the Greateſt Sinner in the VVorld.</hi>
+            </p>
+            <p>With an Anſwer to a Paper put forth by him, entituled, <hi>A Word to the Wiſe is enough.</hi>
+            </p>
+            <p>Alſo, A Warning to him, that he perſiſt nor abide no lon<g ref="char:EOLhyphen"/>ger in Lying and making Lyes his Refuge, leſt the Wrath of God break forth upon him, and there be no Remedy.</p>
+            <p>By JONH VAUGHTON, <hi>in Scorn called a</hi> Quaker.</p>
+            <q>
+               <p>We have an Advocate with the Father, Jeſus Chriſt the Righteous,</p>
+               <bibl>1 John 2.1.</bibl>
+               <p>—How much more ſhall the Blood of Chriſt, who through the Eternal Spirit offered himſelf without Spot to God, purge your Conſciences from dead Works, to ſerve the living God,</p>
+               <bibl>Hebr. 9.14.</bibl>
+               <p>— For we have not an High Prieſt which cannot be touched with the Feeling of our Infirmities but was in all points tempted like as we are, yet <hi>Without Sin,</hi>
+               </p>
+               <bibl>Hebr. 4.15.</bibl>
+            </q>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:55688:2"/>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>THe Reaſon why this Diſcourſe was publiſhed, is to give thee a true Account upon what Oc<g ref="char:EOLhyphen"/>caſion <hi>Thomas Powell</hi> affirmed, That <hi>Jeſus Chriſt was the greateſt Sinner in the World;</hi> and may ſerve for the ſtopping of the many Lyes that he hath told about it.</p>
+            <closer>
+               <signed>J. V.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <head>Something of a Diſcourſe that paſt between one <hi>Thomas Powell,</hi> who calls himſelf <hi>a Miniſter of the Goſpel;</hi> &amp; <hi>John Vaughton<g ref="char:punc">▪</g>
+               </hi> who by many in ſcorn is called a <hi>Qua<g ref="char:EOLhyphen"/>ker;</hi> the <hi>29th</hi> of the <hi>2d</hi> Moneth called <hi>April, 1676.</hi>
+            </head>
+            <pb n="3" facs="tcp:55688:2"/>
+            <sp>
+               <speaker>T. Powel,</speaker>
+               <p>
+                  <hi>YOu</hi> Quakers <hi>hold Damnable and Er<g ref="char:EOLhyphen"/>roneous Doctrine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>John Vaughton,</speaker>
+               <p>What Doctrine is that we hold that is Erroneous or Damnable?</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>You hold Perfection.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V:</speaker>
+               <p>We ſay, that God is perfect, and his Works are all perfect.</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>There are none perfect who are not free from Temptation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J.V.</speaker>
+               <p>Chriſt Jeſus was tempted, was not he perfect?</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>He was the Greateſt Sinner in the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>Who was the Greateſt Sinner in the World?</p>
+            </sp>
+            <sp>
+               <speaker>T.P.</speaker>
+               <p>
+                  <hi>Chriſt Jeſus was the Greateſt Sinner in the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>Wilt thou give me that under thy Hand?</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>Yes</hi> [and then he writ theſe words, <hi>Chriſt Jeſus was the Greateſt Sinner in the World, I</hi> Thomas Powell <hi>Miniſter of the Goſpel affirms.</hi>]</p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>I deny thee to be a Goſpel-Miniſter; for the Goſpel-Miniſters never preached that Doctrine; for the Apoſtle ſaid, <hi>He did no Sin, neither was Guile found in his Mouth;</hi> and the Apoſtle <hi>John</hi> ſaid, <hi>We have an Advocate with the Father, Jeſus Chriſt, the Righteous;</hi> he did not ſay, Jeſus Chriſt was the Greateſt Sinner
+<pb n="4" facs="tcp:55688:3"/>in the World. And I do teſtifie in the Name of God, who is pure forever, thou art an Enemy to Chriſt Jeſus; for he was and is pure forever: and bleſſed be the Name of the Lord, who hath brought a Rem<g ref="char:EOLhyphen"/>nant to the Knowledge of him: and we know, that every Manifeſtation of him and Appearance of him is pure, and he ſtands a Witneſs againſt all that's im<g ref="char:EOLhyphen"/>pure and unholy: And therefore I do ſay unto thee in the Fear of God, That thou art an Enemy to Chriſt Jeſus, and art a Miniſter of the Power of Darkneſs, and art in the ſame ſpirit as were thoſe Hypocritical <hi>Jews,</hi> who, when the Man that was born blind was brought unto them (after Chriſt had opened his Eyes) they ſaid unto him that was born blind, <hi>Who opened thy Eyes?</hi> and he ſaid, <hi>Jeſus:</hi> but ſaid thoſe Hypocrites to the Man, <hi>Give God the Glory, for this man is a Sinner.</hi> But thou haſt exceeded them; they ſaid, <hi>he was a Sinner;</hi> and thou ſayeſt, <hi>he was the grea<g ref="char:EOLhyphen"/>teſt Sinner in the World:</hi> But the Man who had his Eyes opened by him ſaid, <hi>God hears not Sinners.</hi> But God the Father ever heard his Son Chriſt Jeſus; for he did alwayes thoſe things that were well-pleaſing in his Sight.</p>
+               <p>
+                  <hi>Note,</hi> That when I had given this Teſtimony <hi>T.P.</hi> in an <hi>Iſhmaelite</hi> ſpirit vaunted &amp; ſaid as followeth.</p>
+            </sp>
+            <sp>
+               <speaker>T.P.</speaker>
+               <p>
+                  <hi>I have ſpoken a Theſis, and you are a ſilly ignorant People, and do not underſtand Divinity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>I am a Plain Man, and do ſpeak as I think, and as I certainly know, through a good Experience, that Chriſt Jeſus is holy and pure forever, and I have no Unity with thy Theſis; and this is my Teſtimo<g ref="char:EOLhyphen"/>ny
+<pb n="5" facs="tcp:55688:3"/>unto thee, Thou art ignorant of the Divine and Heavenly Power of God, which is Chriſt Jeſus, who is holy and pure forever; and thou haſt ſaid, <hi>He was the greateſt Sinner in the World:</hi> Oh! ſtop thy Mouth for Shame; for this is my Teſtimony, God will dry up the Tongue of the <hi>Aegyptian</hi> Sea.</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>What, do you own Revelation in theſe dayes?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>Yes, we do own Revelation in theſe dayes.</p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>Then burn the Bible; for if there be Revelati<g ref="char:EOLhyphen"/>on in theſe our dayes, there is no need of the Scriptures; but there is no Revelation in theſe dayes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>Then there is no Knowledge of God; for Chriſt Jeſus hath ſaid, <hi>No man knows the Father, but the Son, and he to whom the Son will reveal him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. P.</speaker>
+               <p>
+                  <hi>You</hi> Quakers <hi>do own Viſion too, do you not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. V.</speaker>
+               <p>Yes, we do own Viſion; for, <hi>where there is no Viſion, the People periſh;</hi> for Viſion is a Sight or See<g ref="char:EOLhyphen"/>ing, and the pure in Heart ſees God; but thou art not in that which is pure, who haſt charged Chriſt Jeſus to be the <hi>Greateſt Sinner in the World.</hi>
+               </p>
+            </sp>
+            <p>Then a Young Man of <hi>T. P</hi>'s Hearers asked this Queſtion, <hi>Seeing you are but a People of about Twenty Five Years ſtanding, and you ſay, that your Way is the Right Way, What became of the people that dyed before you were a People?</hi>
+            </p>
+            <p>
+               <hi>Thomas Powell</hi> takes upon him to anſwer it in the Name of the <hi>Quakers</hi> thus, <hi>They</hi> (ſaid he) <hi>believe that they are all damned.</hi>
+            </p>
+            <p>[Mark] So great was his Envy &amp; Malice unto the deſpiſed and reproached <hi>Quakers,</hi> and ſo wicked is he, to endeavour to inſenſe his Hearer with this his Lye
+<pb n="6" facs="tcp:55688:4"/>and Slander againſt them, notwithſtanding I gave this Anſwer in the name of my Friends, whom <hi>T.P.</hi> had thus belyed, as our teſtimony that we did believe ac<g ref="char:EOLhyphen"/>cording to the teſtimony of Holy Scriptures, that in every Age and Generation he that feared God and wrought Righteouſneſs was accepted of him: But he ſtill did ſay, and that in a laughing, light and airy manner, <hi>That we did believe that they were all damned;</hi> thus did he perſiſt in his Belying &amp; Slandering of us; ſuch was the Power of Darkneſs in this Miniſter of the Goſpel, as he calls himſelf, that we muſt believe (or at leaſt he would) if he could make us believe as he had ſaid, notwithſtanding I gave our Teſtimony to the contrary.</p>
+         </div>
+         <div type="text">
+            <head>Something in Anſwer to <hi>T.P</hi>'s Paper, intituled, <hi>A Word to the Wiſe is enough.</hi> With a few words as a Warn<g ref="char:EOLhyphen"/>ing to him, that he no longer perſiſt in Lying.</head>
+            <pb n="7" facs="tcp:55688:4"/>
+            <p>
+               <hi>Tho. Powell</hi> having ſpoken theſe words, and given them under his Hand the 29th 2d Mon. 1676. viz. <hi>Jeſus Chriſt was the Greateſt Sinner in the World, I</hi> Thomas Powel <hi>Miniſter of the Goſpel affirms;</hi> which <hi>Affirmation</hi> of T. P<hi>'s</hi> was immediately denyed, and he born Teſtimony againſt, for this his Blaſphemous Expreſſion; and two dayes after I did deſire him to condemn his words, but he refuſed it, and ſaid, <hi>Shall I condemn that which I can prove, and moſt Divines of our Way hold? and you are Wretches and damned if you do not believe it.</hi> Then it was laid upon me from the Lord God of Heaven and Earth, to go to the Meetings where <hi>T. Powell</hi> did preach, and give my Teſti<g ref="char:EOLhyphen"/>mony to the purity of Chriſt Jeſus; and alſo it was with me, to give the People ſome Papers, with <hi>T. P</hi>'s own words inſert<g ref="char:EOLhyphen"/>ed in them, with Directions to thoſe that queſtioned the Truth of it, where they might ſee the Original under his own hand; which thing was not done in a ſpirit of Prejudice, or with a De<g ref="char:EOLhyphen"/>ſign to aſperſe or caſt a Calumny upon <hi>T. Powell</hi> who terms himſelf <hi>Preacher of the Goſpel,</hi> as he falſly inſinuates: But to ma<g ref="char:EOLhyphen"/>nifeſt and to make it appear, that he is not what he intitleth himſelf to be, inaſmuch as he would not own Jeſus Chriſt to be perfect, as in the Diſcourſe doth plainly appear; but on the contrary, affirms him to be the greateſt Sinner in the World: But <hi>T. P.</hi> perceiving the Diſſatisfaction of ſome, and being not able to ſtand by his Affirmation, about three Moneths after put forth a printed Paper, and intitles it, <hi>A Word to the Wiſe is enough,</hi> and ſayes, <hi>He thought it convenient to give the World this ſatisfaction, that though thoſe words, Jeſus Chriſt was the Greateſt Sinner in the World, were given under his hand to</hi> John Vaughton Quaker, <hi>yet that was his Senſe, and is his Senſe ſtill, viz. by Imputation, and was repeated by him ſeveral
+<pb n="8" facs="tcp:55688:5"/>times, even before and after he had writ thoſe Words.</hi> Now <hi>Tho. Bye</hi> hath ſince this Paper was publiſhed, declared in the preſence of ſeveral Perſons that <hi>T.P.</hi> did not ſpeak nor menti<g ref="char:EOLhyphen"/>on the Word Imputation before he writ thoſe Words, ſo that the World may ſee, that he hath abuſed his Witneſs. And for his ſaying. <hi>The</hi> Quakers <hi>no Chriſtians ſtill made good,</hi> is a<g ref="char:EOLhyphen"/>nother of his Lies, and the contrary doth appear, not only in Word and Doctrine, but in the Lives and Converſations of thoſe who are faithful to the <hi>Quakers</hi> Principle, the Light of Chriſt Jeſus manifeſted in them, whoſe Light is the Condem<g ref="char:EOLhyphen"/>nation of the Evil doer, and the Evil-doer cannot eſcape the Condemnation of it.</p>
+            <p>But <hi>Tho. Powel</hi> having now in print declared that he meant by Imputation, then we muſt read his VVords thus, <hi>I</hi> Thomas Powel <hi>Miniſter of the Goſpel, affirms Jeſus Chriſt was the great<g ref="char:EOLhyphen"/>eſt Sinner in the World — by Imputation.</hi> Now <hi>T. P.</hi> with the reſt of the Divines of thy VVay, give us plain Scripture that ſaith, Jeſus Chriſt was (by <hi>Peter, Paul,</hi> or any of the Miniſters of the Goſpel) affirmed to be the greateſt SIN<g ref="char:EOLhyphen"/>NER in the VVorld by Imputation, and give us plain Scrip<g ref="char:EOLhyphen"/>ture that ſaith, he took the Guilt of our Sins upon him; for though it is ſaid, <hi>Iſa.</hi> 53.6. <hi>That he laid upon him the Iniquity of us all,</hi> or as the Hebrew VVord hath it, <hi>He made the Iniqui<g ref="char:EOLhyphen"/>ties of us all to meet on him,</hi> or as in the 10th verſe, it is ſaid, <hi>He was made an Offering for Sin</hi> (it doth not ſay, he was guilty of Sin) Now <hi>T. P.</hi> give us a plain Scripture that ſaith, Jeſus Chriſt by taking, bearing or ſuffering for Sinners, that he became guilty of Sin, and that he was the greateſt of Sin<g ref="char:EOLhyphen"/>ners; and give us a plain Scripture that ſaith, he hath more Sins to anſwer for then any particular Sinner; for though I have read of the Sins of <hi>David,</hi> whom I ſuppoſe you do believe was an Elect Perſon, whoſe Sins were, as in Scripture recorded, Murder and Adultery, yet I do not find by any Teſtimony of Scripture that Jeſus Chriſt was guilty of <hi>David</hi>'s Sins, nor of <hi>Paul</hi>'s Sins, who was a Perſecutor of him in his Members, nor of <hi>Peter</hi>'s Sin, who denyed him. And <hi>T. P.</hi> I query with thee whether thou be an Elect Perſon or nay? if yea, then tell me,
+<pb n="9" facs="tcp:55688:5"/>whether Jeſus Chriſt be guilty of thy Lies, ſome of which are hereafter mentioned, viz. <hi>T. P</hi> affirmed, that he had writ the Word <hi>[Imputation]</hi> but the Original being ſhewed, his Lye appeared, and then he ſaid, <hi>He had writ the Word, Imputation, but that</hi> John Vaughton <hi>ſnatcht the Paper from him,</hi> and this alſo was and is teſtified to be a Lye. Now it is alſo to be con<g ref="char:EOLhyphen"/>ſidered that <hi>William Farrendine,</hi> one of <hi>T. P</hi>'s. Divines, ſaid, <hi>that it was wicked men that imputed Jeſus Chriſt to be the great<g ref="char:EOLhyphen"/>eſt Sinner in the World,</hi> and that when he had ſeen what <hi>T. P.</hi> had writ, he ſaid, <hi>he was a Lyar;</hi> for ſaid <hi>William Farrin<g ref="char:EOLhyphen"/>dine, he told me the Word Imputation was in,</hi> and he ſaid, <hi>he would not ſtand by him for Ten Thouſand Worlds,</hi> and <hi>that he ſhould not preach in his Meeting Houſe till he had publickly con<g ref="char:EOLhyphen"/>demned it;</hi> but notwithſtanding his Sayings, and fair Preten<g ref="char:EOLhyphen"/>ces, he hath permitted <hi>T. P.</hi> (who hath affirmed Jeſus Chriſt to be that which he ſaith, <hi>Wicked men imputed him to be</hi>) to preach in his Meeting-Houſe without numbering him a<g ref="char:EOLhyphen"/>mongſt wicked men. So it appears plainly, notwithſtanding the ſpecious Pretences of <hi>Tho. Powel,</hi> who calls himſelf Preacher of the Goſpel, he hath not yet left off Lying, nor forging of Lies.</p>
+            <p>A Copy of thoſe Words, in which <hi>William Farrindine</hi> is made mention of, was ſhewed unto him, and he confeſſed unto the Truth thereof, and further ſaid, <hi>T. P. had told many Lyes about this thing.</hi> So I have conſidered <hi>T. P</hi>'s. Paper, and peruſed the Scriptures therein cited, and they do not ſay, nor allow, that Jeſus Chriſt took the Guilt of Sin upon him, nor that he had more to anſwer for then any particular <hi>Sinner,</hi> or that be was the greateſt of Sinners, but give a plain and evi<g ref="char:EOLhyphen"/>dent Teſtimony to the Innocency and Purity of Chriſt Je<g ref="char:EOLhyphen"/>ſus, and to the Love of the Father manifeſted in and through him, who gave himſelf for us, that he might redeem us from all Iniquity, and purifie unto himſelf a Peculiar People, Zea<g ref="char:EOLhyphen"/>lous of Good Works, <hi>Tit.</hi> 2.14.</p>
+            <p>And ſo <hi>T. P.</hi> thou haſt not yet cleared thy ſelf of thy Blaſ<g ref="char:EOLhyphen"/>phemous Expreſſion or Poſition, as thou calls it, which was by thee affirmed.</p>
+            <pb n="10" facs="tcp:55688:6"/>
+            <p>And <hi>T. P.</hi> notwithſtanding thou haſt been exhorted to Re<g ref="char:EOLhyphen"/>pentance, yet thou haſt gone on, and perſiſted in preaching, and telling Lyes unto the People, and ſaying, <hi>The</hi> Quakers <hi>own Jeſus Chriſt only as an Example, and deny him to be an Of<g ref="char:EOLhyphen"/>fering for Sin, or a Propitiation for Sin;</hi> for which Lyes and Slanders, with many more that have and might be mentioned, God's Hand will meet with thee, and if thou Repent not, will certainly appoint thee thy Portion with the Father of Lyes in the Lake that burns with Fire and Brimſtone; and therefore this is ſent as a Warning unto thee, in the Name of the Lord, and in Good will to thy Soul, that thou no longer make Lyes thy Refuge, and that thou no longer ſell nor give thy Lyes and falſe Conceivings unto the people, leſt the Wrath of God break forth upon thee, and there be no Remedy. And thou haſt denyed Revelation in theſe dayes, by which only and alone the Knowledge of God comes to be attained. And thou haſt denyed Perfection, and ſaid, <hi>its a Damnable and Errone<g ref="char:EOLhyphen"/>ous Doctrine,</hi> which manifeſts thy Ignorance of the Gift of God, for the Gift of God is perfect, and Chriſt Jeſus in the Gift of God, who is pure and holy forever, that is our Teſtimony, and it ſhall ſtand over the Heads of all Oppoſers and Gain<g ref="char:EOLhyphen"/>ſayers, and is that Stone which certainly ſhall grind them to Powder, who falls not upon it ſo as to be broken by it from Sin, which ſeparates man from God, and with-holds good things from the Soul. And notwithſtanding I had been at thy Meeting, yet theſe things did remain with me to write unto thee, that thou might be left without Excuſe, and that I might clear my Conſcience in the Sight of God, who have Good Will in my Heart unto all the Sons and Daughters of men. And thou vain Boaſter, who in the Pride of thy Heart, and in the Ex<g ref="char:EOLhyphen"/>altedneſs of thy Spirit ſaid, <hi>Thou would throw down our Foun<g ref="char:EOLhyphen"/>dation;</hi> in that alſo thou art found to be a Lyar, and an Enemy to Chriſt Jeſus; for he, to wit, Chriſt Jeſus, is our Foundati<g ref="char:EOLhyphen"/>on who abides pure and perfect forever, and in the Strength of his Power we were inabled in the midſt of thy Meeting, and that before thy Face to bear a Teſtimony to his Purity, &amp; thou waſt then made to confeſs to the People, <hi>Thou didſt not know what
+<pb n="11" facs="tcp:55688:6"/>to do with us, except thou ſhouldſt Threſh us, and Whip us, and put us into the Stocks;</hi> but the Lord our God was with us, and his Power was felt by us, which carried us over all Oppoſition; and thou couldſt not ſtand that day before it (to wit, God's Power) which remains with us, and is our Preſervation; to whoſe Power be the Glory for evermore.</p>
+            <closer>
+               <signed>John Vaughton.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>AND ſo dear and tender-hearted People, ceaſe from having and Dependency on Man, whoſe Breath is in his Noſtrils, and come to the Fear of the Lord, which is the Beginning of true Wiſdom, and a good <g ref="char:V">Ʋ</g>nderſtanding have all they that depart from Iniquity, and ſuch will joyn no more with <hi>T. P.</hi> in thoſe Duties which he calls holy,<note n="*" place="margin">
+                  <hi>Confuſion;</hi> that which is holy is not ſinful.</note> and yet ſayes, <hi>they are Fly-blown with Sin</hi> (and that is a Shame to any People) and his beſt Performances, which he hath ſaid in our Hearing were <hi>Bed ridden;</hi> and we are ſure the Spirit of the Lord led not to thoſe Performances, but the Spirit of the wicked One, which is called the Prince of the Power of the Air, which rules in the Hearts of the Children of Diſobedience, which moved him at <hi>Farrindine</hi>'s Meeting to pray, that they might have no Dependen<g ref="char:EOLhyphen"/>cy on Jeſus Chriſt within them; the Word Chriſt ſignifies Anoint<g ref="char:EOLhyphen"/>ed; &amp; the Apoſtle ſaid to ſuch as believed in Chriſt, <hi>You have the Anointing in you, which will teach you all things, which is Truth, and no Lye;</hi> and ſurely if it be ſufficient to teach, as we firmly and truly believe and know, that Chriſt, the Anointed of God, being able, is worthy to be depended on for Teaching, who hath ſaid, <hi>Without me ye can do nothing:</hi> Much more might be ſpoken to ſhew and to make it appear, that <hi>T. P.</hi> is no Goſpel-Miniſter; but we being not willing to inlarge, and alſo certainly knowing, that thoſe who are faithful to the Manifeſtation of God's Spirit in themſelves, will certainly come to ſee him to be no Goſpel-
+<pb n="12" facs="tcp:55688:7"/>Miniſter, but to be ſuch an one as runs, and God never ſent him; for had he been ſent of God to preach the Goſpel, he would have known Chriſt to have been revealed in him, and ſo to have had a Dependency on him, and a reverent Eſteem of him, as the Apo<g ref="char:EOLhyphen"/>ſtles and Miniſters of Chriſt Jeſus had, as you may read in the holy Scriptures of Truth; for ſaid the holy Apoſtle, <hi>When it pleaſed God, who ſeparated me from my Mother's Womb, and called me by his Grace, to reveal his Son</hi> IN ME, <hi>that I might preach him among the</hi> Heathen, <hi>immediately I con<g ref="char:EOLhyphen"/>ferred not with Fleſh and Blood, &amp;c.</hi> Gal. <hi>1.15, 16.</hi> So that it's plain and evident, that the Ground of the Apoſtle <hi>Paul's</hi> preach<g ref="char:EOLhyphen"/>ing Chriſt, was from God's revealing him IN HIM: And this is my Teſtimony (whether you hear or forbear) that none are ſent of God to preach Chriſt Jeſus, but ſuch as know him to be re<g ref="char:EOLhyphen"/>vealed IN THEM, and to live IN THEM; for that was the Ground of the Apoſtle's preaching Chriſt, even from his knowing of him to be revealed IN HIM; and it's not Fleſh and Blood that reveals or gives the Knowledge of Chriſt Jeſus, but the Father, as you may read in <hi>Mat. 16.16, 17.</hi> where it's left upon Record, that Chriſt ſaid unto <hi>Peter,</hi> when he had con<g ref="char:EOLhyphen"/>feſſed him to be the Son of God, <hi>Fleſh and Blood hath not reveal<g ref="char:EOLhyphen"/>ed it unto thee, but my Father which is in Heaven;</hi> and the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul</hi> alſo ſaid unto them that ſought a Proof of Chriſt ſpeak<g ref="char:EOLhyphen"/>ing IN HIM, <hi>Examine your ſelves, whether you be in the Faith, prove your own ſelves, know you not your own ſelves how that Jeſus Chriſt is IN YOU, except you be Re<g ref="char:EOLhyphen"/>probates? 2</hi> Cor. <hi>13.5.</hi> And in <hi>Rom. 8.9.</hi> it's ſaid, <hi>If a<g ref="char:EOLhyphen"/>ny Man hath not the Spirit of Chriſt, he is none of his:</hi> So People conſider theſe Things, and compare the Prayer of your Prieſt (who would have no Dependency on Chriſt within) and the Apoſtle's Teſtimony, who ſaid, <hi>Even the Myſtery which hath been hid from Ages and Generations, but now is made mani<g ref="char:EOLhyphen"/>feſt to his Saints, to whom God would make known what is the Riches of the Glory of this Myſtery among the</hi> Gentiles, <hi>which is Chriſt IN YOU, the Hope of Glory, whom we preach, warning every Man, and teaching every Man in all Wiſdom, that we might preſent every Man perfect in Chriſt
+<pb n="13" facs="tcp:55688:7"/>Jeſus, whereunto I alſo labour, ſtriving, according to his wor<g ref="char:EOLhyphen"/>king, which worketh IN ME mightily, &amp;c.</hi> Col. <hi>1.26. to the End:</hi> And ſo it's plain and evident, that the Apoſtle la<g ref="char:EOLhyphen"/>boured to preſent every Man perfect in Chriſt Jeſus, who alſo knew Chriſt to work mightily IN HIM for that End; and ſurely he depended on him, as he was revealed in him, which made him alſo to ſay, <hi>I live, yet not I, but Chriſt lives IN ME, and the Life that I now live is by Faith in the Son of God,</hi> and this was the Treaſure that they of old witneſſed in their earthen Veſſels; and bleſſed be God forever, there is a Remnant in this our Day, who have believed in Chriſt, and have had their Depen<g ref="char:EOLhyphen"/>dency on him, as revealed in them, and do count him their chiefeſt Treaſure, having known the Drawings of the Father, in &amp; through the Son of his Love, who is known and witneſſed to make his A<g ref="char:EOLhyphen"/>bode in and among us, according to his Promiſe in Dayes paſt unto his Diſciples, when he told them, that <hi>it's expedient for you that I go away; for if I go not away, the Comforter will not come, but if I go away, I will ſend the Comforter, the Spi<g ref="char:EOLhyphen"/>rit of Truth, and it ſhall lead you into all Truth, and it ſhall reprove the World of Sin, of Righteouſneſs and of Judgment;</hi> ſo that it's plain, that the ſame Spirit that is the Saints Leader and Comforter is the World's Reprover; and it's alſo ſaid, <hi>The Reproofs of Inſtruction is the Way to Life;</hi> ſo that if ever you come to know Life and Peace to your immortal Souls, you muſt believe in, and obey, and be ſubject unto the Spirit of Truth IN YO<g ref="char:V">Ʋ</g>R SELVES, that doth reprove you for Sin in your own Particulars; for we do teſtifie in the Name of God that lives forever, that the Spirit of Truth is come INTO the Hearts and Conſciences of People, not only to reprove for Sin; but thoſe that do receive it, and believe in it, come to know it to lead them out of Sin, and ſuch come to know the Sanctification of the Spirit, through believing in the Truth; and ſaid Chriſt Jeſus, <hi>I am the Way, the Truth and the Life, and the Light of the World, &amp; there is no Man cometh to the Father, but by me;</hi> who alſo ſaid unto his Diſciples, <hi>He that is with you, ſhall be IN YOU;</hi> and as Chriſt ſaid, <hi>We will come</hi> (ſpeaking of his Father) <hi>and make our Abode with you—He that hath the Sen hath Life, and
+<pb n="14" facs="tcp:55688:8" rendition="simple:additions"/>he that hath not the Son of God hath not Life— He that believeth on the Son hath everlaſting Life,<note place="margin">
+                     <hi>John</hi> 14.23. 1 <hi>Joh.</hi> 5.12. <hi>John.</hi> 3.36.</note> and he that believeth not the Son ſhall not ſee Life, but the Wrath of God abideth on him;</hi> and Chriſt ſaid unto his Diſciples, <hi>I am the Vine, ye are the Branches, he that abideth IN ME, and I IN HIM, the ſame bringeth forth much Fruit, for without me ye can do nothing;</hi> and to others he alſo ſaid, <hi>Behold I ſtand at the Door and knock, if ANY MAN will open unto me, I will come INTO HIM, and ſup with him, and he with me; ſo the Spirit ſaith Come, and the Bride ſaith Come, and he that is athirſt let him come, and drink of the Waters of Life freely,</hi> that is the Deſire of our Souls, who have taſted of the Goodneſs of the Lord, that you alſo might come beyond all vain empty Profeſſion to a living Poſſeſſion, and to have an Earneſt of that Inheritance in that Life which will endure, when Time here ſhall be no more.</p>
+            <closer>
+               <signed>
+                  <hi>From us who deſire the Good and Welfare of all your Souls.</hi>
+                  <list>
+                     <item>John Vaughton</item>
+                     <item>John Feild.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Let <hi>Thomas Powel</hi> (and all others to whom theſe Lines may come) know, that our owning and preaching Chriſt within, as the holy Apoſtles did, doth not at all gainſay or oppoſe Chriſt as he was manifeſt without in the Dayes of his Fleſh; for we have a dear and honourable Eſteem unto our Lord and Saviour Jeſus Chriſt in all his Manifeſtations, both within and without; and he who profeſſeth and talks of him only or wholly without, denying him any Place within Man, is a Deceiver and an Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:55688:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
